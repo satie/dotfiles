@@ -83,7 +83,7 @@ brew install nmap
 
 # Install other useful binaries.
 brew install ack
-#brew install exiv2
+# sbrew install exiv2
 brew install git
 brew install git-lfs
 brew install gs
@@ -121,6 +121,15 @@ brew install awscli
 
 # zsh
 brew install zsh
+
+# itsycal
+brew cask install itsycal
+
+# mackup
+brew install mackup
+
+# flux
+brew cask install flux
 
 # Remove outdated versions from the cellar.
 brew cleanup
