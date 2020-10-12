@@ -138,5 +138,12 @@ brew install python
 brew tap weaveworks/tap
 brew install weaveworks/tap/eksctl
 
+# go
+brew install golang
+mkdir -p $HOME/go/{bin,src}
+
+# cfssl
+brew install cfssl
+
 # Remove outdated versions from the cellar.
 brew cleanup
