@@ -148,4 +148,4 @@ alias reload="exec ${SHELL} -l"
 alias path='echo -e ${PATH//:/\\n}'
 
 # python3.7
-alias python=/usr/local/bin/python3.7
+alias python=/usr/local/bin/python3
