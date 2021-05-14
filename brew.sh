@@ -103,6 +103,7 @@ brew install zopfli
 # Install dev tools
 brew install yarn
 brew install make
+brew install node
 brew install nvm
 
 brew cask install \
