@@ -106,7 +106,7 @@ brew install make
 brew install node
 brew install nvm
 
-brew cask install \
+brew install --cask \
   visual-studio-code \
   google-chrome \
   firefox \
@@ -124,13 +124,13 @@ brew install awscli
 brew install zsh
 
 # itsycal
-brew cask install itsycal
+brew install --cask itsycal
 
 # mackup
 brew install mackup
 
 # flux
-brew cask install flux
+brew install --cask flux
 
 # python
 brew install python
