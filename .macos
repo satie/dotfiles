@@ -955,3 +955,5 @@ echo "Done. Note that some of these changes require a logout/restart to take eff
 
 # disable sleep
 # sudo pmset disablesleep 1
+
+softwareupdate --install-rosetta
